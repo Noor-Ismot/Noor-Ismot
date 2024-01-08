@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋, I'm Noor. </h1>
 <h3 align="center">I'm originally from Bangladesh, living in Sweden!</h3>
-<p>As an ISTQB-certified software pro, I've got 3.4 years of solid experience in testing web and mobile apps. Test planning, executing tests, reporting, and documentation—I've got it covered. I'm also well-versed in the Scrum methodology and even had the chance to work with a global pharmaceutical company.  I'm on a journey to merge my testing expertise with front-end web development skills.<p>
+<p>As an ISTQB-certified software pro, I've got 3.4 years of solid experience in testing web and mobile apps. Test planning, executing tests, reporting, and documentation—I've got it covered. I'm also well-versed in the Scrum methodology and even had the chance to work with a global pharmaceutical company.  I'm on a journey to merge my testing expertise with web development skills.<p>
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwY2JkYWNlNjMzZTBkZGZlNDJmOWUxZDlhZTExNDVkYmZhNDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/rsUGLKwgSvSxmq1VrZ/giphy.gif" height=300px></p>
 
 - 👨‍💻 My Skills are **Functional Testing, Regression Testing, User Acceptance Testing, Integration Testing, Usability testing, sanity testing** and many more
