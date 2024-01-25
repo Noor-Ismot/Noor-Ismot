@@ -18,13 +18,13 @@ testing, sanity testing, Automation Testing and many more**
 
  🌱 I’m currently working with **data analytics software**
 
- 📝 I regularly write about my #100daysOfCode Journey on **<a href="https://medium.com/@ara.noor.ismot/list/100daysofcodejourney-8a70f12e084e">Medium@ara.noor.ismot</a>**
+ 📝 I regularly write about my #100daysOfCode Journey on **<a href="https://medium.com/@ara.noor.ismot/list/100daysofcodejourney-8a70f12e084e" target="_blank">Medium.ara.noor.ismot</a>**
 
  💬 Ask me about **SDLC, STLC, Scrum, Testing & Test Documentation**
 
  📫 How to reach me **ara.noor.ismot@gmail.com**
 
- 📄 Have a look at my portfolio **<a href="https://lively-lamington-422010.netlify.app/">BugHunterNoor.se</a>**
+ 📄 Have a look at my portfolio **<a href="https://lively-lamington-422010.netlify.app/" target="_blank">BugHunterNoor.se</a>**
 
  ⚡ Fun fact **I love Noodles!**
 
