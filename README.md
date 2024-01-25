@@ -10,7 +10,6 @@
         height=300px></p>
 
 
-
  👨‍💻 My Skills are **Functional Testing, Regression Testing, User Acceptance Testing, Integration Testing, Usability
 testing, sanity testing, Automation Testing and many more**
 
