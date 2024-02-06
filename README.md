@@ -17,7 +17,7 @@ testing, sanity testing, Automation Testing, and many more**
 
  🌱 I’m currently working with **data analytics software**
 
- 📝 I regularly write about software testing and my #100daysOfCode Journey on **<a href="https://medium.com/@ara.noor.ismot/lists" target="_blank">Medium.ara.noor.ismot</a>**
+ 📝 I regularly write about software testing on **<a href="https://medium.com/@ara.noor.ismot/lists" target="_blank">Medium.ara.noor.ismot</a>**
 
  💬 Ask me about **SDLC, STLC, Scrum, Testing & Test Documentation**
 
