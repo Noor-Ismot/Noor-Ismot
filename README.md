@@ -23,7 +23,7 @@ testing, sanity testing, API Testing and many more**
 
  📫 How to reach me **ara.noor.ismot@gmail.com**
 
- 📄 Have a look at my portfolio **<a href="https://noor-ismot.github.io/Portfolio/" target="_blank">BugHunterNoor.se</a>** and **<a href="https://docs.google.com/document/d/1zVBqTxLEx1RwMyx-QKshXYky1hyJbpkQn0yfGgcGVyU/edit?usp=sharing" target="_blank">CV</a>**
+ 📄 Have a look at my portfolio **<a href="https://noor-ismot.github.io/Software-Test-Automation-Engineer-Portfolio/" target="_blank">BugHunterNoor.se</a>** and **<a href="https://docs.google.com/document/d/1zVBqTxLEx1RwMyx-QKshXYky1hyJbpkQn0yfGgcGVyU/edit?usp=sharing" target="_blank">CV</a>**
 
  ⚡ Fun fact **I love Noodles!**
 
