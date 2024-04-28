@@ -15,15 +15,15 @@ testing, sanity testing, API Testing and many more**
 
  🔭 Tools I have worked with **Cypress, JIRA, Confluence, Burp Suite, Postman**
 
- 🌱 I’m currently working with **data analytics software**
+ 🌱 I’m currently working with **Sustainability and data analytics software**
 
- 📝 I regularly write about software testing on **<a href="https://medium.com/@ara.noor.ismot/lists" target="_blank">Medium.ara.noor.ismot</a>**
+ 📝 I write about software testing on **<a href="https://medium.com/@ara.noor.ismot/list/testerwiki-e0d910bbaf60" target="_blank">Medium.ara.noor.ismot</a>**
 
  💬 Ask me about **Cypress, SDLC, STLC, Scrum, Test Methodologies & Test Documentation**
 
  📫 How to reach me **ara.noor.ismot@gmail.com**
 
- 📄 Have a look at my portfolio **<a href="https://noor-ismot.github.io/Software-Test-Automation-Engineer-Portfolio/" target="_blank">BugHunterNoor.se</a>** and **<a href="https://docs.google.com/document/d/1zVBqTxLEx1RwMyx-QKshXYky1hyJbpkQn0yfGgcGVyU/edit?usp=sharing" target="_blank">CV</a>**
+ 📄 Have a look at my portfolio **<a href="https://noor-ismot.github.io/Software-Test-Automation-Engineer-Portfolio/" target="_blank">Noor.SoftwareTestEngineer</a>** and **<a href="https://docs.google.com/document/d/1zVBqTxLEx1RwMyx-QKshXYky1hyJbpkQn0yfGgcGVyU/edit?usp=sharing" target="_blank">CV</a>**
 
  ⚡ Fun fact **I love Noodles!**
 
