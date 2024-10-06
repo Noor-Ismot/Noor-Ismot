@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Ismot Ara</h1>
-<h4 align="center">A Detail-oriented Software Quality Assurance and Automation Tester, ensuring everything is functional in the digital world</h4>
-<p>As an ISTQB-certified software pro, I've got 3.5 years of solid experience in testing web and mobile apps. Test
-    planning, executing tests, reporting, and documentation—I've got it covered. I'm also well-versed in the Scrum
-    methodology and even had the chance to work with a global pharmaceutical company. I'm on a journey to merge my
-    testing expertise with data analytics product.
+<h4 align="center">A Detail-oriented Software Quality Assurance and Test Engineer, ensuring everything is functional in the digital world</h4>
+<p>As an ISTQB-certified software tester, I bring over 4 years of hands-on experience in testing.I’ve handled everything from test planning and execution to reporting and documentation with confidence. I'm also proficient in the Scrum methodology and have had the opportunity to collaborate with a global pharmaceutical company.Currently I am working with Sustainability product when I play key role to enhance and maintain the quality of our product.
 <p>
 <p align="center"><img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwY2JkYWNlNjMzZTBkZGZlNDJmOWUxZDlhZTExNDVkYmZhNDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/rsUGLKwgSvSxmq1VrZ/giphy.gif"
