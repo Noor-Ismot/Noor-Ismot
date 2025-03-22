@@ -14,8 +14,6 @@ testing, sanity testing, API Testing and many more**
 
  🌱 I’m currently working with **Sustainability and data analytics software**
 
- 📝 I write about software testing on **<a href="https://medium.com/@ara.noor.ismot/list/testerwiki-e0d910bbaf60" target="_blank">Medium.ara.noor.ismot</a>**
-
  💬 Ask me about **Cypress, SDLC, STLC, Scrum, Test Methodologies & Test Documentation**
 
  📫 How to reach me **ara.noor.ismot@gmail.com**
