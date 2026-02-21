@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Noor Ismot Ara</h1>
 <h4 align="center">A Detail-oriented Software Quality Assurance and Test Engineer, ensuring everything is functional in the digital world</h4>
-<p>As an ISTQB-certified software tester, I bring around 5 years of hands-on experience in web and mobile application testing. I’ve handled everything from test planning and execution to reporting and documentation with confidence. I'm also proficient in the Scrum methodology and have had the opportunity to collaborate with a global pharmaceutical company. In my recent experience I have worked with Sustainability product when I play key role to enhance and maintain the quality of our product. Currently, I'm honing my skills in Python and SQL to further enhance my testing capabilities. I'm passionate about ensuring software quality and am always eager to learn and adapt to new technologies and methodologies in the ever-evolving field of software testing.</p>  
 <p>
+I am an ISTQB-certified software test and quality assurance engineer based in Sweden who enjoys bringing quality, structure, and clarity to evolving products.
+
+My career has grown across two different markets, ranging from large-scale pharmaceutical platforms to a sustainability-focused SaaS product. These experiences have shaped my ability to work in both regulated environments and fast-moving product teams.
+
+I am particularly motivated by systems where data integrity, user impact, and long-term reliability matter.  For me, quality is about building confidence and delivering impact in every release.
+
+<p>
+
 <p align="center"><img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwY2JkYWNlNjMzZTBkZGZlNDJmOWUxZDlhZTExNDVkYmZhNDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/rsUGLKwgSvSxmq1VrZ/giphy.gif"
         height=300px></p>
 
+ 👨‍💻 My Skills are **Functional Testing, UI Automation Testing, Regression Testing, User Acceptance Testing, Integration Testing, Usability testing, sanity testing, API Testing, Accessibility Testing**
 
- 👨‍💻 My Skills are **Functional Testing, Automation Testing,Regression Testing, User Acceptance Testing, Integration Testing, Usability
-testing, sanity testing, API Testing and many more**
+ 🔭 Tools I have worked with **Abode experience manager (AEM) based web applications, Sustainability web application, Playwright, Cypress, JIRA, Confluence, Burp Suite, Postman**
 
- 🔭 Tools I have worked with **Abode experience manager (AEM) based web applications, Sustainability web application, Cypress, JIRA, Confluence, Burp Suite, Postman**
+ 🌱 I’m currently working with **Exploring data & AI product quality, Expanding automation depth**
 
- 🌱 I’m currently working with **Python, SQL**
+ 📫 How to reach me **<ara.noor.ismot@gmail.com>**
 
- 💬 Ask me about **Cypress, SDLC, STLC, Scrum, Test Methodologies & Test Documentation**
-
- 📫 How to reach me **ara.noor.ismot@gmail.com**
-
-
-
- ⚡ Fun fact **I love Noodles!**
+ ⚡ Outside of Tech **I love Travelling & watching good netflix series!**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ismot&label=Profile%20views&color=0e75b6&style=flat"
         alt="noor-ismot" /> </p>
