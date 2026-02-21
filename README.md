@@ -12,7 +12,7 @@ My career has grown across two different markets, ranging from large-scale pharm
         height=300px></p>
 
  👨‍💻 My Technical Skills:
-**Programming: Python | SQL | JavaScript | HTML | CSS
+Programming: Python | SQL | JavaScript | HTML | CSS
 
 UI Automation & Framework: Cypress | Playwright
 
@@ -20,7 +20,7 @@ Software Testing & Methodologies:  Test Strategy | Test Plan |
 
 Test Case Creation | Manual Testing | Functional Testing (Web/Mobile) | Regression | Integration | User Acceptance | Sanity | Accessibility
 
-Tools & Platforms: AEM | SaaS Web Platforms | Jira | Confluence | Trello | Figma | Burp Suite | Git/GitHub | Agile/Scrum**
+Tools & Platforms: AEM | SaaS Web Platforms | Jira | Confluence | Trello | Figma | Burp Suite | Git/GitHub | Agile/Scrum
 
  🔭 Tools I have worked with **Abode experience manager (AEM) based web applications, Sustainability web application, Playwright, Cypress, JIRA, Confluence, Burp Suite, Postman**
 
@@ -29,6 +29,3 @@ Tools & Platforms: AEM | SaaS Web Platforms | Jira | Confluence | Trello | Figma
  📫 How to reach me **<ara.noor.ismot@gmail.com>**
 
  ⚡ Outside of Tech **I love Travelling & watching good netflix series!**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noor-ismot&label=Profile%20views&color=0e75b6&style=flat"
-        alt="noor-ismot" /> </p>
