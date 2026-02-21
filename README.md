@@ -11,7 +11,7 @@ My career has grown across two different markets, ranging from large-scale pharm
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwY2JkYWNlNjMzZTBkZGZlNDJmOWUxZDlhZTExNDVkYmZhNDM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/rsUGLKwgSvSxmq1VrZ/giphy.gif"
         height=300px></p>
 
- 👨‍💻 My Technical Skills:
+ 👨‍💻 My Technical Skills:<br>
 Programming: Python | SQL | JavaScript | HTML | CSS
 
 UI Automation & Framework: Cypress | Playwright
@@ -20,9 +20,7 @@ Software Testing & Methodologies:  Test Strategy | Test Plan |
 
 Test Case Creation | Manual Testing | Functional Testing (Web/Mobile) | Regression | Integration | User Acceptance | Sanity | Accessibility
 
-Tools & Platforms: AEM | SaaS Web Platforms | Jira | Confluence | Trello | Figma | Burp Suite | Git/GitHub | Agile/Scrum
-
- 🔭 Tools I have worked with **Abode experience manager (AEM) based web applications, Sustainability web application, Playwright, Cypress, JIRA, Confluence, Burp Suite, Postman**
+Tools & Platforms: AEM | SaaS Web Platforms | Jira | Confluence | Trello | Figma | Postman | Burp Suite | Git/GitHub | Agile/Scrum
 
  🌱 I’m currently working with **Exploring data & AI product quality, Expanding automation depth**
 
